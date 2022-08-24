@@ -30,4 +30,12 @@ $ sbt "runMain hello.HelloWorldApp"
 
 ```bash
 $ sbt test
+$ sbt "testOnly hello.HelloWorldSpec"
+```
+
+6. Waveforms
+
+```bash
+$ sbt "testOnly hello.HelloWorldWaveform -- -DwriteVcd=1"
+$ gtkwave test_run_dir/HelloWorldWaveform_should_pass/HelloWorld.vcd
 ```

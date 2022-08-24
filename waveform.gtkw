@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.111 (w)1999-2020 BSI
+[*] Wed Aug 24 04:36:38 2022
+[*]
+[dumpfile] "./test_run_dir/HelloWorldWaveform_should_pass/HelloWorld.vcd"
+[dumpfile_mtime] "Wed Aug 24 04:31:42 2022"
+[dumpfile_size] 8666
+[savefile] "./waveform.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-6.600000 546 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 269
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@29
+HelloWorld.clock
+@22
+[color] 3
+HelloWorld.io_a[31:0]
+[color] 1
+HelloWorld.io_b[31:0]
+HelloWorld.io_delay_a[31:0]
+@28
+[color] 2
+HelloWorld.io_div_out
+@22
+HelloWorld.io_out[31:0]
+[pattern_trace] 1
+[pattern_trace] 0

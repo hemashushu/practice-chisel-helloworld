@@ -1,5 +1,6 @@
 test_run_dir/
 target/
+generated/
 .bloop/
 .metals/
 .vscode/
